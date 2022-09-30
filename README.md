@@ -1,4 +1,4 @@
-# Learning Resources App
+#Learning Resources App
 
 ## Table of contents:
 
